@@ -5,6 +5,7 @@ body {
   letter-spacing: 1px;
   word-break: break-all;
   color: #333;
+  overflow-x:hidden;
 }
 
 a {
@@ -170,7 +171,7 @@ li {
   flex-wrap: wrap;
 }
 .bread_item{
-  margin-left: 110px;
+  margin-left: 50px;
 
   margin-bottom: 20px;
 
@@ -202,7 +203,7 @@ li {
 margin-left: 250px;
 }
 .menu_item {
-  margin-left:80px;
+  margin-left:60px;
 }
 
 .font7{
@@ -216,7 +217,7 @@ margin-left: 250px;
 }
 
 .drink_item{
-  margin-left:200px;
+  margin-left:230px;
 }
 
 .button {
@@ -235,7 +236,7 @@ margin-left: 250px;
 }
 
 .takeout_item{
-  margin-left: 240px;
+  margin-left: 250px;
   margin-top: 40px;
 }
 
