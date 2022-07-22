@@ -71,7 +71,7 @@ li {
   color: rgb(251, 249, 252);
   font-size: 70px; z-index: 2;
   margin-top: 150px;
-  margin-left: 220px;
+  margin-left: 400px;
   transform: translate(-50%, -50%);
 }
 
@@ -83,19 +83,19 @@ li {
 
 .font1 {
   text-align: center;
-    font-size: 40px;
+    font-size:40px;
     font-weight: bold;
     color: #555;
 }
 
 .font2{
-  font-size: 30px;
+  font-size: 20px;
   margin-bottom: 40px;
   margin-right: 700px;
 }
 
 .font3{
-  font-size: 28px;
+  font-size: 20px;
 }
 .about_img_shop5 {
   position: relative;
@@ -123,7 +123,7 @@ li {
   font-size: 30px;
   font-weight: lighter;
   margin-bottom:20px;
- 
+ margin-left:50px; ;
 }
 
 .font6{
@@ -170,7 +170,8 @@ li {
 }
 .bread_item{
   margin-left: 110px;
-  margin-top: 20px;;
+
+  margin-bottom: 20px;
 
 }
 
@@ -190,8 +191,9 @@ li {
 
 .font7{
   text-align: center;
-  font-size: 28px;
-  margin-bottom: 5px;
+  font-size: 20px;
+  margin-top: 20px;
+ padding-bottom: 20px;
 }
 
 
@@ -203,8 +205,9 @@ margin-left: 250px;
 }
 
 .font7{
-  font-size: 28px;
+  font-size: 20px;
   padding-top: 50px;
+  margin-bottom: 8px;
 }
 
 .lunch_wrapper{
@@ -274,12 +277,12 @@ margin-left: 250px;
  }
 
 .blog_img{
- margin-left: 14%;
+ margin-left: 25%;
  margin-top: 5%;
 }
 .font8{
   font-size: 30px;
-  margin-left:100px;
+  margin-left:20px;
 }
 .contact_wrapper{ 
   background-color:beige;
