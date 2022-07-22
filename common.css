@@ -91,11 +91,12 @@ li {
 .font2{
   font-size: 20px;
   margin-bottom: 40px;
-  margin-right: 700px;
+  margin-left: 100px;
 }
 
 .font3{
   font-size: 20px;
+  margin-left: 100px;
 }
 .about_img_shop5 {
   position: relative;
@@ -281,7 +282,7 @@ margin-left: 250px;
  margin-top: 5%;
 }
 .font8{
-  font-size: 30px;
+  font-size: 25px;
   margin-left:20px;
 }
 .contact_wrapper{ 
@@ -289,7 +290,7 @@ margin-left: 250px;
 }
 .font8 {
   
-  font-size: 30px;
+  font-size: 25px;
   font-weight: lighter;
   text-align: center; 
   
